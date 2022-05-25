@@ -3386,7 +3386,7 @@
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Apakah kamu sakit kepala? gunakan Penghilang Rasa Sakit™ untuk menghilangkan sakit kepalamu!",
+ 	 	 	 	"trans": "Apakah kamu sakit kepala? Gunakan Penghilang Rasa Sakit"" untuk menghilangkan sakit kepalamu!",
  	 	 	 	"eng": "Do you have headache? Use Pain Away™ to relieve your pain!"
  	 	 	}
  	 	},
@@ -3402,7 +3402,7 @@
  	 	},
  	 	"healing3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bot Medis Nano Kualitas Kendah",
+ 	 	 	 	"trans": "Bot Medis Nano Kualitas Rendah",
  	 	 	 	"eng": "Degraded Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
